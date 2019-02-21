@@ -18,6 +18,7 @@ export class MyApp {
       statusBar.styleDefault();
       splashScreen.hide();
       console.log('feature branch test');
+      console.log('one more test');
     });
   }
 }
